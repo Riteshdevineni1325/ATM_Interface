@@ -1,4 +1,4 @@
-Task-3: ATM Interface
+ATM Interface
 
 This system is designed to simulate the working of an ATM machine by providing basic banking functionalities to the user. It begins with the creation of a class that represents the ATM, which acts as the main interface for user interaction. The user interface is designed to offer options such as withdrawing money, depositing funds, and checking the account balance, making the system interactive and easy to use.
 
